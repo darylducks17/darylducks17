@@ -32,6 +32,7 @@ My name is Daryl and I am working as a QA Engineer at a research management soft
   <img height=5% width=5% src="https://media.licdn.com/dms/image/D4E10AQHEOboYzCot5Q/image-shrink_1280/0/1700913600277?e=2147483647&v=beta&t=N0_kOb2wVtWSmzErQR6qtVQGbxX_WeYheHeuf_YefQw" />
   <img height=5% width=5% src="https://www.svgrepo.com/show/354321/selenium.svg"/>
   <img height=5% width=5% src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" />
+  <img height=5% width=5% src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mocha_logo.svg/2048px-Mocha_logo.svg.png" />
   <img height=5% width=5% src="https://images.peerspot.com/image/upload/c_scale,f_auto,q_auto,w_200/hNMJJ78MbNcvroPwWE3TSr3f.jpg" />
   <img height=5% width=5% src="https://play-lh.googleusercontent.com/sfUl5MNJaK2z2nMyX8lHA-J9Sc_EGPilRELYLzZ3CTSUzp1-ayxKMOhJwuwTKkABcw" />
   <img height=5% width=5% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUP1-JzJxz3islSyRVRmJeoUbzUgqdjwOcTQ&s" />
